@@ -753,6 +753,8 @@ public final class ventana extends javax.swing.JFrame implements ActionListener{
         getContentPane().add(Ele, new org.netbeans.lib.awtextra.AbsoluteConstraints(80, 50, 900, 490));
 
         H.setBackground(new java.awt.Color(74, 74, 74));
+        H.setText("H");
+        H.setToolTipText("");
         H.setBorder(null);
         H.setBorderPainted(false);
         H.setName("H"); // NOI18N
@@ -769,6 +771,7 @@ public final class ventana extends javax.swing.JFrame implements ActionListener{
         getContentPane().add(H, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 60, 50, 48));
 
         Litio.setBackground(new java.awt.Color(74, 74, 74));
+        Litio.setText("Li");
         Litio.setBorderPainted(false);
         Litio.setName("li"); // NOI18N
         Litio.addActionListener(new java.awt.event.ActionListener() {
@@ -779,6 +782,7 @@ public final class ventana extends javax.swing.JFrame implements ActionListener{
         getContentPane().add(Litio, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 110, 48, 47));
 
         Francio.setBackground(new java.awt.Color(74, 74, 74));
+        Francio.setText("Fr");
         Francio.setBorder(null);
         Francio.setBorderPainted(false);
         Francio.setName("fr"); // NOI18N
@@ -858,6 +862,7 @@ public final class ventana extends javax.swing.JFrame implements ActionListener{
         getContentPane().add(jToggleButton1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1220, 140, -1, -1));
 
         Sodio.setBackground(new java.awt.Color(74, 74, 74));
+        Sodio.setText("Na");
         Sodio.setBorderPainted(false);
         Sodio.setName("na"); // NOI18N
         Sodio.addActionListener(new java.awt.event.ActionListener() {
@@ -868,6 +873,7 @@ public final class ventana extends javax.swing.JFrame implements ActionListener{
         getContentPane().add(Sodio, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 160, 48, 45));
 
         Potasio.setBackground(new java.awt.Color(74, 74, 74));
+        Potasio.setText("K");
         Potasio.setBorder(null);
         Potasio.setBorderPainted(false);
         Potasio.setName("k"); // NOI18N
@@ -879,6 +885,7 @@ public final class ventana extends javax.swing.JFrame implements ActionListener{
         getContentPane().add(Potasio, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 210, 48, 45));
 
         Rubidio.setBackground(new java.awt.Color(74, 74, 74));
+        Rubidio.setText("Rb");
         Rubidio.setBorder(null);
         Rubidio.setBorderPainted(false);
         Rubidio.setName("rb"); // NOI18N
@@ -890,6 +897,7 @@ public final class ventana extends javax.swing.JFrame implements ActionListener{
         getContentPane().add(Rubidio, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 260, 48, 45));
 
         Cesio.setBackground(new java.awt.Color(74, 74, 74));
+        Cesio.setText("Cs");
         Cesio.setBorder(null);
         Cesio.setBorderPainted(false);
         Cesio.setName("cs"); // NOI18N
@@ -901,6 +909,7 @@ public final class ventana extends javax.swing.JFrame implements ActionListener{
         getContentPane().add(Cesio, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 310, 48, 45));
 
         Berilio.setBackground(new java.awt.Color(74, 74, 74));
+        Berilio.setText("Be");
         Berilio.setBorderPainted(false);
         Berilio.setName("be"); // NOI18N
         Berilio.addActionListener(new java.awt.event.ActionListener() {
@@ -911,6 +920,7 @@ public final class ventana extends javax.swing.JFrame implements ActionListener{
         getContentPane().add(Berilio, new org.netbeans.lib.awtextra.AbsoluteConstraints(120, 110, 48, 47));
 
         elemento.setBackground(new java.awt.Color(74, 74, 74));
+        elemento.setText("Ra");
         elemento.setBorder(null);
         elemento.setBorderPainted(false);
         elemento.setName("ra"); // NOI18N
@@ -922,6 +932,7 @@ public final class ventana extends javax.swing.JFrame implements ActionListener{
         getContentPane().add(elemento, new org.netbeans.lib.awtextra.AbsoluteConstraints(120, 360, 48, 45));
 
         elemento1.setBackground(new java.awt.Color(74, 74, 74));
+        elemento1.setText("Mg");
         elemento1.setBorderPainted(false);
         elemento1.setName("mg"); // NOI18N
         elemento1.addActionListener(new java.awt.event.ActionListener() {
@@ -932,6 +943,7 @@ public final class ventana extends javax.swing.JFrame implements ActionListener{
         getContentPane().add(elemento1, new org.netbeans.lib.awtextra.AbsoluteConstraints(120, 160, 48, 45));
 
         elemento2.setBackground(new java.awt.Color(74, 74, 74));
+        elemento2.setText("Ca");
         elemento2.setBorder(null);
         elemento2.setBorderPainted(false);
         elemento2.setName("ca"); // NOI18N
@@ -943,6 +955,7 @@ public final class ventana extends javax.swing.JFrame implements ActionListener{
         getContentPane().add(elemento2, new org.netbeans.lib.awtextra.AbsoluteConstraints(120, 210, 48, 45));
 
         elemento3.setBackground(new java.awt.Color(74, 74, 74));
+        elemento3.setText("Sr");
         elemento3.setBorder(null);
         elemento3.setBorderPainted(false);
         elemento3.setName("sr"); // NOI18N
@@ -954,6 +967,7 @@ public final class ventana extends javax.swing.JFrame implements ActionListener{
         getContentPane().add(elemento3, new org.netbeans.lib.awtextra.AbsoluteConstraints(120, 260, 48, 45));
 
         elemento4.setBackground(new java.awt.Color(74, 74, 74));
+        elemento4.setText("Br");
         elemento4.setBorder(null);
         elemento4.setBorderPainted(false);
         elemento4.setName("ba"); // NOI18N
@@ -976,6 +990,7 @@ public final class ventana extends javax.swing.JFrame implements ActionListener{
         getContentPane().add(elemento5, new org.netbeans.lib.awtextra.AbsoluteConstraints(170, 360, 48, 45));
 
         elemento6.setBackground(new java.awt.Color(74, 74, 74));
+        elemento6.setText("Sc");
         elemento6.setBorder(null);
         elemento6.setBorderPainted(false);
         elemento6.setName("sc"); // NOI18N
@@ -987,6 +1002,7 @@ public final class ventana extends javax.swing.JFrame implements ActionListener{
         getContentPane().add(elemento6, new org.netbeans.lib.awtextra.AbsoluteConstraints(170, 210, 48, 45));
 
         elemento7.setBackground(new java.awt.Color(74, 74, 74));
+        elemento7.setText("Y");
         elemento7.setBorder(null);
         elemento7.setBorderPainted(false);
         elemento7.setName("y"); // NOI18N
@@ -2140,7 +2156,8 @@ public final class ventana extends javax.swing.JFrame implements ActionListener{
         jLabel8.setBackground(new java.awt.Color(33, 33, 33));
         jLabel8.setForeground(new java.awt.Color(44, 44, 44));
         jLabel8.setName("H"); // NOI18N
-        getContentPane().add(jLabel8, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, -4, 1370, 30));
+        jLabel8.setOpaque(true);
+        getContentPane().add(jLabel8, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, -4, 1370, 740));
 
         pack();
     }// </editor-fold>//GEN-END:initComponents

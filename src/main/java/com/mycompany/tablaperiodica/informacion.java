@@ -9,7 +9,7 @@ public class informacion extends javax.swing.JFrame {
         this.setLocationRelativeTo(this);
         texto.append(paso);
         transparenciaboton();
-        label.setIcon(new javax.swing.ImageIcon("/home/trabajo/Imágenes/atomo-imagen-animada-0005.gif"));
+        label.setIcon(new javax.swing.ImageIcon("~/Imágenes/capibara.png"));
     }
     public void transparenciaboton(){
         jButton1.setOpaque(false);
