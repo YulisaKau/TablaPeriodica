@@ -1,13 +1,6 @@
 package com.mycompany.tablaperiodica;
 
 import java.awt.event.ActionEvent;
-import javax.swing.ButtonGroup;
-import javax.swing.JOptionPane;
-import java.awt.event.FocusEvent;
-import java.awt.event.FocusListener;
-import javax.swing.Icon;
-import javax.swing.ImageIcon;
-import javax.swing.JLabel;
 import java.awt.event.ActionListener;
 import javax.swing.JButton;
 public final class ventana extends javax.swing.JFrame implements ActionListener{
@@ -160,7 +153,7 @@ public final class ventana extends javax.swing.JFrame implements ActionListener{
         String name=o.getName();
         //e.getActionCommand().equals("New button1")
         switch (name) {
-            case "H"->this.enlace("Hidrogeno","1","1.0","gaseoso","","/home/trabajo/Imágenes/1c1feffed7dc8a90a755642552b53990.gif");
+            case "H"->this.enlace("Hidrogeno","1","1.0","gaseoso","","/home/royel/Imágenes/1c1feffed7dc8a90a755642552b53990.gif");
             case "li"->this.enlace("Litio","3","6,9","liquido","","/home/trabajo/Imágenes/db9q9gh-4b04d3dc-c688-4b6f-9a8a-9deaec633439.gif");
             case "na"->this.enlace("Sodio","11","23,0","liquido","","/home/trabajo/Imágenes/db9q9gh-4b04d3dc-c688-4b6f-9a8a-9deaec633439.gif");
             case "k"->this.enlace("Potasio","19","39,1","liquido","","/home/trabajo/Imágenes/db9q9gh-4b04d3dc-c688-4b6f-9a8a-9deaec633439.gif");
@@ -753,7 +746,7 @@ public final class ventana extends javax.swing.JFrame implements ActionListener{
         getContentPane().add(Ele, new org.netbeans.lib.awtextra.AbsoluteConstraints(80, 50, 900, 490));
 
         H.setBackground(new java.awt.Color(74, 74, 74));
-        H.setText("H");
+        H.setIcon(new javax.swing.ImageIcon("/home/royel/Imágenes/Elementos/H.png")); // NOI18N
         H.setToolTipText("");
         H.setBorder(null);
         H.setBorderPainted(false);
@@ -771,7 +764,8 @@ public final class ventana extends javax.swing.JFrame implements ActionListener{
         getContentPane().add(H, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 60, 50, 48));
 
         Litio.setBackground(new java.awt.Color(74, 74, 74));
-        Litio.setText("Li");
+        Litio.setIcon(new javax.swing.ImageIcon("/home/royel/Imágenes/Elementos/Li.png")); // NOI18N
+        Litio.setAlignmentX(0.5F);
         Litio.setBorderPainted(false);
         Litio.setName("li"); // NOI18N
         Litio.addActionListener(new java.awt.event.ActionListener() {
@@ -862,7 +856,7 @@ public final class ventana extends javax.swing.JFrame implements ActionListener{
         getContentPane().add(jToggleButton1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1220, 140, -1, -1));
 
         Sodio.setBackground(new java.awt.Color(74, 74, 74));
-        Sodio.setText("Na");
+        Sodio.setIcon(new javax.swing.ImageIcon("/home/royel/Imágenes/Elementos/Na.png")); // NOI18N
         Sodio.setBorderPainted(false);
         Sodio.setName("na"); // NOI18N
         Sodio.addActionListener(new java.awt.event.ActionListener() {
@@ -873,7 +867,7 @@ public final class ventana extends javax.swing.JFrame implements ActionListener{
         getContentPane().add(Sodio, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 160, 48, 45));
 
         Potasio.setBackground(new java.awt.Color(74, 74, 74));
-        Potasio.setText("K");
+        Potasio.setIcon(new javax.swing.ImageIcon("/home/royel/Imágenes/Elementos/K.png")); // NOI18N
         Potasio.setBorder(null);
         Potasio.setBorderPainted(false);
         Potasio.setName("k"); // NOI18N
@@ -885,7 +879,7 @@ public final class ventana extends javax.swing.JFrame implements ActionListener{
         getContentPane().add(Potasio, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 210, 48, 45));
 
         Rubidio.setBackground(new java.awt.Color(74, 74, 74));
-        Rubidio.setText("Rb");
+        Rubidio.setIcon(new javax.swing.ImageIcon("/home/royel/Imágenes/Elementos/Rb.png")); // NOI18N
         Rubidio.setBorder(null);
         Rubidio.setBorderPainted(false);
         Rubidio.setName("rb"); // NOI18N

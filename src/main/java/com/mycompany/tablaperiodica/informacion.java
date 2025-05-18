@@ -9,7 +9,6 @@ public class informacion extends javax.swing.JFrame {
         this.setLocationRelativeTo(this);
         texto.append(paso);
         transparenciaboton();
-        label.setIcon(new javax.swing.ImageIcon("~/Imágenes/capibara.png"));
     }
     public void transparenciaboton(){
         jButton1.setOpaque(false);
@@ -30,6 +29,7 @@ public class informacion extends javax.swing.JFrame {
         jLabel1 = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
+        setBackground(new java.awt.Color(0, 0, 0));
         setForeground(java.awt.Color.black);
         setLocation(new java.awt.Point(0, 0));
         setResizable(false);
@@ -37,10 +37,9 @@ public class informacion extends javax.swing.JFrame {
         getContentPane().add(label, new org.netbeans.lib.awtextra.AbsoluteConstraints(1260, 640, 90, 90));
 
         jLabel4.setBackground(new java.awt.Color(248, 130, 91));
-        jLabel4.setIcon(new javax.swing.ImageIcon("/home/trabajo/Imágenes/tablaperiodica/liston.png")); // NOI18N
         getContentPane().add(jLabel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(1020, 620, 350, 120));
 
-        jLabel2.setBackground(new java.awt.Color(32, 36, 52));
+        jLabel2.setBackground(new java.awt.Color(0, 0, 0));
         jLabel2.setFont(new java.awt.Font("Lakehurst Gothic Medium", 0, 12)); // NOI18N
         jLabel2.setForeground(new java.awt.Color(254, 254, 254));
         jLabel2.setText("  Estado de agregacion:");
@@ -49,6 +48,8 @@ public class informacion extends javax.swing.JFrame {
         getContentPane().add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(430, 190, 540, 50));
         getContentPane().add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(430, 230, 540, 510));
 
+        jButton1.setBackground(new java.awt.Color(0, 0, 0));
+        jButton1.setForeground(new java.awt.Color(0, 0, 0));
         jButton1.setBorderPainted(false);
         jButton1.setContentAreaFilled(false);
         jButton1.addActionListener(new java.awt.event.ActionListener() {
@@ -63,7 +64,7 @@ public class informacion extends javax.swing.JFrame {
         jScrollPane2.setToolTipText("");
 
         texto.setEditable(false);
-        texto.setBackground(new java.awt.Color(32, 36, 52));
+        texto.setBackground(new java.awt.Color(0, 0, 0));
         texto.setFont(new java.awt.Font("Cantarell Extra Bold", 0, 18)); // NOI18N
         texto.setForeground(new java.awt.Color(254, 254, 254));
         texto.setRows(5);
@@ -77,7 +78,6 @@ public class informacion extends javax.swing.JFrame {
 
         getContentPane().add(jScrollPane2, new org.netbeans.lib.awtextra.AbsoluteConstraints(970, 0, 400, 740));
 
-        jLabel1.setIcon(new javax.swing.ImageIcon("/home/trabajo/Imágenes/tablaperiodica/fondodesenfoque.png")); // NOI18N
         jLabel1.setText("jLabel1");
         jLabel1.setAlignmentY(0.0F);
         getContentPane().add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 1370, 740));

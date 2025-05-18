@@ -1,15 +1,11 @@
 package com.mycompany.tablaperiodica;
 
-import java.applet.AudioClip;
 
 public class inicio extends javax.swing.JFrame {
 
     public inicio() {
         initComponents();
         this.setLocationRelativeTo(this);
-        AudioClip sonido;
-        sonido=java.applet.Applet.newAudioClip(getClass().getResource(""));
-        sonido.play();
     }
 
     /**

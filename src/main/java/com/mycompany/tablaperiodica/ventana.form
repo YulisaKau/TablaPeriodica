@@ -371,7 +371,9 @@
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
-        <Property name="text" type="java.lang.String" value="H"/>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="/home/royel/Im&#xe1;genes/Elementos/H.png"/>
+        </Property>
         <Property name="toolTipText" type="java.lang.String" value=""/>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -394,7 +396,10 @@
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
-        <Property name="text" type="java.lang.String" value="Li"/>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="/home/royel/Im&#xe1;genes/Elementos/Li.png"/>
+        </Property>
+        <Property name="alignmentX" type="float" value="0.5"/>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="li" noResource="true"/>
       </Properties>
@@ -614,7 +619,9 @@
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
-        <Property name="text" type="java.lang.String" value="Na"/>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="/home/royel/Im&#xe1;genes/Elementos/Na.png"/>
+        </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="na" noResource="true"/>
       </Properties>
@@ -632,7 +639,9 @@
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
-        <Property name="text" type="java.lang.String" value="K"/>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="/home/royel/Im&#xe1;genes/Elementos/K.png"/>
+        </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
         </Property>
@@ -653,7 +662,9 @@
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
-        <Property name="text" type="java.lang.String" value="Rb"/>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="/home/royel/Im&#xe1;genes/Elementos/Rb.png"/>
+        </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
         </Property>
