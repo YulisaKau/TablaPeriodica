@@ -576,6 +576,10 @@ public final class ventana extends javax.swing.JFrame implements ActionListener{
         jLabel25 = new javax.swing.JLabel();
         jLabel26 = new javax.swing.JLabel();
         jLabel8 = new javax.swing.JLabel();
+        alcalinoterreos = new javax.swing.JLabel();
+        Ele = new javax.swing.JLabel();
+        nometales2 = new javax.swing.JLabel();
+        Mtransicion = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("Tabla periodica");
@@ -2211,6 +2215,10 @@ public final class ventana extends javax.swing.JFrame implements ActionListener{
         jLabel8.setName("H"); // NOI18N
         jLabel8.setOpaque(true);
         getContentPane().add(jLabel8, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, -4, 1370, 740));
+        getContentPane().add(alcalinoterreos, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 110, 50, 300));
+        getContentPane().add(Ele, new org.netbeans.lib.awtextra.AbsoluteConstraints(80, 50, 900, 490));
+        getContentPane().add(nometales2, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 60, 50, 50));
+        getContentPane().add(Mtransicion, new org.netbeans.lib.awtextra.AbsoluteConstraints(170, 210, 510, 200));
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
@@ -3045,17 +3053,20 @@ public final class ventana extends javax.swing.JFrame implements ActionListener{
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton Berilio;
     private javax.swing.JButton Cesio;
+    private javax.swing.JLabel Ele;
     private javax.swing.JButton Francio;
     private javax.swing.JLabel GNobles;
     private javax.swing.JLabel Gnobles;
     private javax.swing.JButton H;
     private javax.swing.JButton Litio;
     private javax.swing.JLabel Malcalinos;
+    private javax.swing.JLabel Mtransicion;
     private javax.swing.JLabel Otrmetales;
     private javax.swing.JButton Potasio;
     private javax.swing.JButton Rubidio;
     private javax.swing.JButton Sodio;
     private javax.swing.JLabel actinidos;
+    private javax.swing.JLabel alcalinoterreos;
     private javax.swing.JToggleButton btelectro;
     private javax.swing.JButton elemento;
     private javax.swing.JButton elemento1;
@@ -3210,5 +3221,6 @@ public final class ventana extends javax.swing.JFrame implements ActionListener{
     private javax.swing.JLabel lantanidos;
     private javax.swing.JLabel metaloides;
     private javax.swing.JLabel nometales;
+    private javax.swing.JLabel nometales2;
     // End of variables declaration//GEN-END:variables
 }
