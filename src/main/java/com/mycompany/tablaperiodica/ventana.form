@@ -296,38 +296,59 @@
         </Constraint>
       </Constraints>
     </Component>
+    <Component class="javax.swing.JLabel" name="nometales2">
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="70" y="60" width="50" height="50"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JLabel" name="alcalinoterreos">
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="70" y="110" width="50" height="300"/>
+        </Constraint>
+      </Constraints>
+    </Component>
     <Component class="javax.swing.JLabel" name="halogenos">
       <Constraints>
         <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="980" y="110" width="50" height="300"/>
+          <AbsoluteConstraints x="870" y="110" width="50" height="300"/>
         </Constraint>
       </Constraints>
     </Component>
     <Component class="javax.swing.JLabel" name="actinidos">
       <Constraints>
         <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="140" y="590" width="740" height="50"/>
+          <AbsoluteConstraints x="160" y="480" width="740" height="50"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Mtransicion">
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="170" y="210" width="510" height="200"/>
         </Constraint>
       </Constraints>
     </Component>
     <Component class="javax.swing.JLabel" name="lantanidos">
       <Constraints>
         <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="140" y="540" width="730" height="60"/>
+          <AbsoluteConstraints x="160" y="420" width="730" height="60"/>
         </Constraint>
       </Constraints>
     </Component>
     <Component class="javax.swing.JLabel" name="Malcalinos">
       <Constraints>
         <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="60" y="370" width="50" height="300"/>
+          <AbsoluteConstraints x="120" y="110" width="50" height="300"/>
         </Constraint>
       </Constraints>
     </Component>
     <Component class="javax.swing.JLabel" name="GNobles">
       <Constraints>
         <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="990" y="50" width="50" height="350"/>
+          <AbsoluteConstraints x="920" y="60" width="50" height="350"/>
         </Constraint>
       </Constraints>
     </Component>
@@ -338,13 +359,20 @@
         </Constraint>
       </Constraints>
     </Component>
+    <Component class="javax.swing.JLabel" name="Ele">
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="80" y="50" width="900" height="490"/>
+        </Constraint>
+      </Constraints>
+    </Component>
     <Component class="javax.swing.JButton" name="H">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/H.png"/>
+          <Image iconType="2" name="/home/royel/Im&#xe1;genes/Elementos/H.png"/>
         </Property>
         <Property name="toolTipText" type="java.lang.String" value=""/>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
@@ -369,7 +397,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Li.png"/>
+          <Image iconType="2" name="/home/royel/Im&#xe1;genes/Elementos/Li.png"/>
         </Property>
         <Property name="alignmentX" type="float" value="0.5"/>
         <Property name="borderPainted" type="boolean" value="false"/>
@@ -390,7 +418,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Fr.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Fr.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -594,7 +622,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Na.png"/>
+          <Image iconType="2" name="/home/royel/Im&#xe1;genes/Elementos/Na.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="na" noResource="true"/>
@@ -614,7 +642,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/K.png"/>
+          <Image iconType="2" name="/home/royel/Im&#xe1;genes/Elementos/K.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -637,7 +665,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Rb.png"/>
+          <Image iconType="2" name="/home/royel/Im&#xe1;genes/Elementos/Rb.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -660,7 +688,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Cs.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Cs.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -683,7 +711,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Be.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Be.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="be" noResource="true"/>
@@ -703,7 +731,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Ra.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Ra.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -726,9 +754,8 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Mg.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Mg.png"/>
         </Property>
-        <Property name="toolTipText" type="java.lang.String" value=""/>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="mg" noResource="true"/>
       </Properties>
@@ -747,7 +774,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Ca.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Ca.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -770,7 +797,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Sr.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Sr.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -793,7 +820,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Ba.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Br.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -814,9 +841,6 @@
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
-        </Property>
-        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Aci.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -839,7 +863,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Sc.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Sc.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -862,7 +886,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Y.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Y.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -884,9 +908,6 @@
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
-        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Lac.png"/>
-        </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
         </Property>
@@ -907,6 +928,9 @@
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Rf.png"/>
+        </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="rf" noResource="true"/>
       </Properties>
@@ -923,6 +947,9 @@
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
+        </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Ti.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="ti" noResource="true"/>
@@ -942,7 +969,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Zr.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Zr.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="zr" noResource="true"/>
@@ -960,6 +987,9 @@
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
+        </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Hf.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="hf" noResource="true"/>
@@ -979,7 +1009,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Db.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Db.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="db" noResource="true"/>
@@ -998,6 +1028,9 @@
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/V.png"/>
+        </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="v" noResource="true"/>
       </Properties>
@@ -1014,6 +1047,9 @@
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
+        </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Nb.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="nb" noResource="true"/>
@@ -1033,7 +1069,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Ta.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Ta.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="ta" noResource="true"/>
@@ -1053,7 +1089,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Sg.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Sg.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="sg" noResource="true"/>
@@ -1073,7 +1109,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Cr.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Cr.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="cr" noResource="true"/>
@@ -1093,7 +1129,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Mo.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Mo.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="mo" noResource="true"/>
@@ -1113,7 +1149,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/W.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/W.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="w" noResource="true"/>
@@ -1131,6 +1167,9 @@
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
+        </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Bh.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="bh" noResource="true"/>
@@ -1150,7 +1189,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Mn.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Mn.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="mn" noResource="true"/>
@@ -1168,6 +1207,9 @@
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
+        </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Te.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="tc" noResource="true"/>
@@ -1187,7 +1229,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Re.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Re.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="re" noResource="true"/>
@@ -1205,6 +1247,9 @@
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
+        </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Ra.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="hs" noResource="true"/>
@@ -1224,7 +1269,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Fe.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Fe.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="fe" noResource="true"/>
@@ -1244,7 +1289,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Ru.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Ru.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="ru" noResource="true"/>
@@ -1264,7 +1309,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Os.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Os.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="os" noResource="true"/>
@@ -1284,7 +1329,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Mt.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Mt.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="mt" noResource="true"/>
@@ -1304,7 +1349,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Co.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Co.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="co" noResource="true"/>
@@ -1324,7 +1369,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Rh.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Rh.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="rh" noResource="true"/>
@@ -1344,7 +1389,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Ir.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Ir.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="ir" noResource="true"/>
@@ -1364,7 +1409,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Ds.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Ds.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="ds" noResource="true"/>
@@ -1384,7 +1429,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Ni.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Ni.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="ni" noResource="true"/>
@@ -1404,7 +1449,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Pd.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Pd.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="pd" noResource="true"/>
@@ -1424,7 +1469,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Pt.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Pt.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="pt" noResource="true"/>
@@ -1444,7 +1489,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Rg.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Rg.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="rg" noResource="true"/>
@@ -1464,7 +1509,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Cu.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Cu.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="cu" noResource="true"/>
@@ -1484,7 +1529,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Ag.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Ag.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="ag" noResource="true"/>
@@ -1504,7 +1549,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Au.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Au.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="au" noResource="true"/>
@@ -1524,7 +1569,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Cn.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Cn.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="cn" noResource="true"/>
@@ -1544,7 +1589,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Zn.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Zn.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="zn" noResource="true"/>
@@ -1564,7 +1609,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Cd.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Cd.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="cd" noResource="true"/>
@@ -1584,7 +1629,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Hg.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Hg.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="hg" noResource="true"/>
@@ -1604,7 +1649,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Nh.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Nh.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="nh" noResource="true"/>
@@ -1624,7 +1669,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Tl.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Tl.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="tl" noResource="true"/>
@@ -1644,7 +1689,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/In.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/In.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="in" noResource="true"/>
@@ -1664,7 +1709,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Ga.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Ga.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="ga" noResource="true"/>
@@ -1684,7 +1729,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/B.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/B.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="b" noResource="true"/>
@@ -1704,7 +1749,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Al.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Al.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="al" noResource="true"/>
@@ -1724,7 +1769,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Fl.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Fl.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="fl" noResource="true"/>
@@ -1744,7 +1789,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Pb.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Pb.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="pb" noResource="true"/>
@@ -1764,7 +1809,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Sn.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Sn.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="sn" noResource="true"/>
@@ -1784,7 +1829,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Ge.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Ge.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="ge" noResource="true"/>
@@ -1804,7 +1849,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/C.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/C.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="c" noResource="true"/>
@@ -1824,7 +1869,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Si.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Si.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="si" noResource="true"/>
@@ -1844,7 +1889,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Mc.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Mc.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="mc" noResource="true"/>
@@ -1864,7 +1909,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Bi.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Bi.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="bi" noResource="true"/>
@@ -1884,7 +1929,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Sb.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Sb.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="sb" noResource="true"/>
@@ -1904,7 +1949,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/As.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/As.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="as" noResource="true"/>
@@ -1924,7 +1969,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/N.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/N.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="n" noResource="true"/>
@@ -1944,7 +1989,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/P.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/P.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="p" noResource="true"/>
@@ -1964,7 +2009,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Lv.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Lv.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="lv" noResource="true"/>
@@ -1984,7 +2029,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Po.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Po.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="po" noResource="true"/>
@@ -2004,7 +2049,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Te.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Te.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="te" noResource="true"/>
@@ -2022,6 +2067,9 @@
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
+        </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Sc.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="se" noResource="true"/>
@@ -2041,7 +2089,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/O.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/O.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="o" noResource="true"/>
@@ -2061,7 +2109,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/S.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/S.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="s" noResource="true"/>
@@ -2081,7 +2129,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Ts.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Ts.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="ts" noResource="true"/>
@@ -2101,7 +2149,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/At.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/At.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="at" noResource="true"/>
@@ -2121,7 +2169,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/I.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/I.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="i" noResource="true"/>
@@ -2141,7 +2189,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Br.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Br.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="br" noResource="true"/>
@@ -2161,7 +2209,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/F.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/F.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="f" noResource="true"/>
@@ -2181,7 +2229,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Cl.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Cl.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="cl" noResource="true"/>
@@ -2201,7 +2249,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Og.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Og.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="og" noResource="true"/>
@@ -2221,7 +2269,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Rn.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Rn.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="rn" noResource="true"/>
@@ -2241,7 +2289,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Xe.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Xe.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="xe" noResource="true"/>
@@ -2261,7 +2309,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Kr.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Kr.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="kr" noResource="true"/>
@@ -2281,7 +2329,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/He.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/He.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="he" noResource="true"/>
@@ -2301,7 +2349,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Ar.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Ar.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="ar" noResource="true"/>
@@ -2321,7 +2369,7 @@
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/tablaperiodica/Icons/Ne.png"/>
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Ne.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="ne" noResource="true"/>
@@ -2340,6 +2388,9 @@
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/La.png"/>
+        </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="la" noResource="true"/>
       </Properties>
@@ -2356,6 +2407,9 @@
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
+        </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Lu.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="yb" noResource="true"/>
@@ -2374,6 +2428,9 @@
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Yb.png"/>
+        </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="tm" noResource="true"/>
       </Properties>
@@ -2390,6 +2447,9 @@
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
+        </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Tm.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="er" noResource="true"/>
@@ -2408,6 +2468,9 @@
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Er.png"/>
+        </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="ho" noResource="true"/>
       </Properties>
@@ -2424,6 +2487,9 @@
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
+        </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Ho.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="dy" noResource="true"/>
@@ -2442,6 +2508,9 @@
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Dy.png"/>
+        </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="tb" noResource="true"/>
       </Properties>
@@ -2458,6 +2527,9 @@
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
+        </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Tb.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="gd" noResource="true"/>
@@ -2476,6 +2548,9 @@
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Gd.png"/>
+        </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="eu" noResource="true"/>
       </Properties>
@@ -2492,6 +2567,9 @@
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
+        </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Eu.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="sm" noResource="true"/>
@@ -2510,6 +2588,9 @@
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Sm.png"/>
+        </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="pm" noResource="true"/>
       </Properties>
@@ -2526,6 +2607,9 @@
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
+        </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Nd.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="nd" noResource="true"/>
@@ -2544,6 +2628,9 @@
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Pr.png"/>
+        </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="pr" noResource="true"/>
       </Properties>
@@ -2560,6 +2647,9 @@
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
+        </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Ce.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="ce" noResource="true"/>
@@ -2578,6 +2668,9 @@
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Cm.png"/>
+        </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="am" noResource="true"/>
       </Properties>
@@ -2594,6 +2687,9 @@
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
+        </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Es.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="cf" noResource="true"/>
@@ -2612,6 +2708,9 @@
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Fm.png"/>
+        </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="es" noResource="true"/>
       </Properties>
@@ -2628,6 +2727,9 @@
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
+        </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Pa.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="pa" noResource="true"/>
@@ -2646,6 +2748,9 @@
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Th.png"/>
+        </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="th" noResource="true"/>
       </Properties>
@@ -2662,6 +2767,9 @@
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
+        </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/No.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="md" noResource="true"/>
@@ -2680,6 +2788,9 @@
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Md.png"/>
+        </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="fm" noResource="true"/>
       </Properties>
@@ -2696,6 +2807,9 @@
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
+        </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Cf.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="bk" noResource="true"/>
@@ -2714,6 +2828,9 @@
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Bk.png"/>
+        </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="cm" noResource="true"/>
       </Properties>
@@ -2730,6 +2847,9 @@
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
+        </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/U.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="u" noResource="true"/>
@@ -2748,6 +2868,9 @@
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Am.png"/>
+        </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="pu" noResource="true"/>
       </Properties>
@@ -2764,6 +2887,9 @@
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
+        </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Ac.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="ac" noResource="true"/>
@@ -2782,6 +2908,9 @@
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
         </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Pu.png"/>
+        </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="np" noResource="true"/>
       </Properties>
@@ -2798,6 +2927,9 @@
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="4a" green="4a" red="4a" type="rgb"/>
+        </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="/home/royel/Documentos/GitHub/prueba/tablaPeriodica/src/main/java/com/mycompany/tablaperiodica/Icons/Lr.png"/>
         </Property>
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="name" type="java.lang.String" value="no" noResource="true"/>
@@ -3189,34 +3321,6 @@
       <Constraints>
         <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
           <AbsoluteConstraints x="0" y="-4" width="1370" height="740"/>
-        </Constraint>
-      </Constraints>
-    </Component>
-    <Component class="javax.swing.JLabel" name="alcalinoterreos">
-      <Constraints>
-        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="70" y="110" width="50" height="300"/>
-        </Constraint>
-      </Constraints>
-    </Component>
-    <Component class="javax.swing.JLabel" name="Ele">
-      <Constraints>
-        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="80" y="50" width="900" height="490"/>
-        </Constraint>
-      </Constraints>
-    </Component>
-    <Component class="javax.swing.JLabel" name="nometales2">
-      <Constraints>
-        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="70" y="60" width="50" height="50"/>
-        </Constraint>
-      </Constraints>
-    </Component>
-    <Component class="javax.swing.JLabel" name="Mtransicion">
-      <Constraints>
-        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="170" y="210" width="510" height="200"/>
         </Constraint>
       </Constraints>
     </Component>
